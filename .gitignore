@@ -1,0 +1,14 @@
+# YDWE / Warcraft III Map - Git Ignore
+
+# SQLite temporary files
+*.db-shm
+*.db-wal
+
+# Build artifacts / backups
+*.bak
+*.backup
+test/
+logs/
+
+# YDWE temp files
+*.ydtemp
